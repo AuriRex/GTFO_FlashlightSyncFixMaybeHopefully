@@ -2,7 +2,7 @@
     <PropertyGroup>
         <TSName>FlashlightSyncFixMaybeHopefully</TSName>
         <TSAuthor>AuriRex</TSAuthor>
-        <TSVersion>2025.1.0</TSVersion> <!-- TSVersion empty = GitInfo used instead (if available; check nuget) -->
+        <TSVersion>2025.1.1</TSVersion> <!-- TSVersion empty = GitInfo used instead (if available; check nuget) -->
         <TSWebsite>https://github.com/AuriRex/GTFO_FlashlightSyncFixMaybeHopefully</TSWebsite>
         <TSDescription>Should hopefully fix some of the flashlight syncing issues, maybe.</TSDescription>
     </PropertyGroup>
