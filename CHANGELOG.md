@@ -1,3 +1,3 @@
 # Changelog
-## v0.0.1
+## v2025.1.0
 * Initial project created
